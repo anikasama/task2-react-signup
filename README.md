@@ -25,7 +25,12 @@ To develop a user signup application using React, Express.js, and MongoDB.
 4. Open the frontend URL displayed in the terminal.
 
 ## Output Screenshots
-Add your screenshots to the repository:
-- `task2-1.png` — Signup form
-- `task2-2.png` — Successful signup
-- `task2-3.png` — MongoDB user record
+
+### Signup Form
+![Signup Form](task2-1.png)
+
+### Successful Signup
+![Successful Signup](task2-2.png)
+
+### MongoDB User Record
+![MongoDB User Record](task2-3.png)
